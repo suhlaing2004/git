@@ -1,2 +1,3 @@
 New changes two.
 New Changes with VS code source control.
+New Changes with VS code terminal.
